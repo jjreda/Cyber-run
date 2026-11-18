@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Run",
+  "short_name": "CyberRun",
+  "description": "Cyber Run by Reda.J, a cyberpunk endless runner.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07080f",
+  "theme_color": "#00f3ff",
+  "icons": [
+    { "src": "cyber_run_icon_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "cyber_run_icon_512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
